@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Coach names, titles and social links
 people:
-- name: Kay Garland
+- name: Josh Geller
   pic: 1
-  position: Lead Designer
+  position: Coach
   social:
     - title: twitter
       url: #
